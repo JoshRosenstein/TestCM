@@ -63,7 +63,7 @@ class UserForm extends React.Component {
         return (
             <div className="user-form">
                 <div>
-                    <label htmlFor="name"Name</label>
+                    <label htmlFor="name">Name</label>
                     <input
                         type="text"
                         name="name"
